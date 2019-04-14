@@ -1,3 +1,8 @@
+"""
+Adapted from online source:
+https://github.com/cmaron/CS-7641-assignments/tree/master/assignment3
+"""
+
 #!/bin/sh
 
 # Replace 'X' below with the optimal values found

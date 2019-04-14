@@ -1,3 +1,8 @@
+"""
+Adapted from online source:
+https://github.com/cmaron/CS-7641-assignments/tree/master/assignment3
+"""
+
 from sklearn.metrics import make_scorer, accuracy_score, f1_score
 from sklearn.utils import compute_sample_weight
 

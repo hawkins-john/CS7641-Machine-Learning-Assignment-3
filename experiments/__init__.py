@@ -1,3 +1,8 @@
+"""
+Adapted from online source:
+https://github.com/cmaron/CS-7641-assignments/tree/master/assignment3
+"""
+
 import datetime
 import warnings
 

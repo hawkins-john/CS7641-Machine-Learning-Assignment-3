@@ -1,3 +1,8 @@
+"""
+Adapted from online source:
+https://github.com/cmaron/CS-7641-assignments/tree/master/assignment3
+"""
+
 from collections import defaultdict
 from itertools import product
 
